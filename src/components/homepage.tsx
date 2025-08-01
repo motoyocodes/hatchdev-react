@@ -15,7 +15,7 @@ function Homepage() {
           <div className="flex items-center gap-2 mt-2">
             <img
               className="w-10 h-10 rounded-2xl "
-              src="/images/image2.jpg"
+              src="public/images/image1.webp"
               alt=""
             />
             <p>Greg hooper</p>
