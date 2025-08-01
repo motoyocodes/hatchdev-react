@@ -3,7 +3,7 @@ function Homepage() {
     <div className="flex justify-center items-center w-screen h-screen bg-yellow-400">
       <div className="card">
         <div>
-          <img className="image" src="src/assets/images/image1.webp" alt="" />
+          <img className="image" src="image1.webp" alt="" />
           <p className="learn">Learning</p>
           <p>Published 21 Dec 2013</p>
           <h1 className="font-bold">HTML and CSS Foundations</h1>
